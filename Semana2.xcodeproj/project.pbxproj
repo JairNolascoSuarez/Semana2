@@ -47,6 +47,7 @@
 		22827E331C66EC1B002E1498 /* Semana2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Semana2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		22827E371C66EC1B002E1498 /* Semana2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Semana2UITests.swift; sourceTree = "<group>"; };
 		22827E391C66EC1B002E1498 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22827E461C66F1B3002E1498 /* Semana2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Semana2.playground; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +98,7 @@
 		22827E161C66EC19002E1498 /* Semana2 */ = {
 			isa = PBXGroup;
 			children = (
+				22827E461C66F1B3002E1498 /* Semana2.playground */,
 				22827E171C66EC1A002E1498 /* AppDelegate.swift */,
 				22827E191C66EC1A002E1498 /* ViewController.swift */,
 				22827E1B1C66EC1A002E1498 /* Main.storyboard */,
@@ -483,6 +485,7 @@
 				22827E3E1C66EC1C002E1498 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		22827E3F1C66EC1C002E1498 /* Build configuration list for PBXNativeTarget "Semana2Tests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +494,7 @@
 				22827E411C66EC1C002E1498 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		22827E421C66EC1C002E1498 /* Build configuration list for PBXNativeTarget "Semana2UITests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +503,7 @@
 				22827E441C66EC1C002E1498 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
