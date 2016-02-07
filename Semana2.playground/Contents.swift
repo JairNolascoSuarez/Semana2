@@ -3,6 +3,7 @@
 
 import UIKit
 
+
 var str = "Tarea Semana 2"
 var modulo5=0
 var modulo2=0
